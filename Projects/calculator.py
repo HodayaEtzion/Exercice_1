@@ -10,6 +10,7 @@ allowed_names.update({
     "abs": abs,
     "round": round
 })
+fff
 
 print("=== Calculatrice Scientifique ===")
 print("Tapez 'quit' pour quitter.")
